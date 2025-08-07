@@ -1,1 +1,2 @@
-venv/git commit -m "Remove venv folder from repository and add .gitignore"
+venv/
+.env
